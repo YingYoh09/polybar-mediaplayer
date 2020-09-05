@@ -1,6 +1,6 @@
 # polybar-mediaplayer
 
-A minimal script to get current media title and artist for [Polybar](https://github.com/jaagr/polybar)
+A minimal script to get current media title and artist for [Polybar](https://github.com/jaagr/polybar) which playerctl support
 
 ![screenshot](image.jpg)  
 
