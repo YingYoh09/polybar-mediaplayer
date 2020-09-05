@@ -2,7 +2,7 @@
 
 A minimal script to get current media title and artist for [Polybar](https://github.com/jaagr/polybar) which playerctl support (spotify, google-chrome, firefox,...)
 
-![screenshot](image.jpg) 
+![screenshot](image.jpg)  
 [test link](https://youtu.be/F5tS5m86bOI)
 
 ## Dependencies
@@ -11,10 +11,10 @@ A minimal script to get current media title and artist for [Polybar](https://git
 * [playerctl](https://github.com/altdesktop/playerctl)
 
 ## Usage
+Polybar config
 ```  
 [module/mediaplayer]  
 type = custom/script
 interval = 2
 exec = /path/to/mediaplayer_get.py
 ````
-
